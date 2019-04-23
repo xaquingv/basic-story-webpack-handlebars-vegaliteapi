@@ -4,7 +4,7 @@ Para instalar e iniciar:
 `npm install`, después `npm start`
 
 ## Sobre las plantillas de {handlebars}
-La plantilla compila el informe a partir de un `JSON` — que viene de un ArchieML que habremos producido en un documento de Google, y que habremos publicado usando la página que se facilita en el taller.
+La plantilla compila el informe a partir de un `JSON` — que viene de un [ArchieML](http://archieml.org/) que habremos producido en un documento de Google, y que habremos publicado usando la página que se facilita en el taller.
 
 Hay tres tipos de `blocks` prehechos: `text`, `graphic` y `scrolly`. Puedes hacer más — necesitarás de incluirlos en el `partial` `block.handlebars`. (El uso es un poco rebuscado, pero es lo más fácil, dado como funciona `handlebars-loader`)
 
