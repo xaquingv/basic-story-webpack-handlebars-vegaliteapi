@@ -13,4 +13,4 @@ En la carpeta `render` están todas las plantillas.
 ## Sobre Vega Lite API
 [Vega-Lite tiene por fin una API de Javascript](https://observablehq.com/@vega/vega-lite-api) que te permite escribir especificaciones de Vega-Lite de manera programática. Para que cargar la visualización en página utilizamos Vega-Embed.
 
-Ya hay [algún ejemplo para inspirarse] (https://observablehq.com/collection/@vega/vega-lite-api)
+Ya hay [algún ejemplo para inspirarse](https://observablehq.com/collection/@vega/vega-lite-api)
