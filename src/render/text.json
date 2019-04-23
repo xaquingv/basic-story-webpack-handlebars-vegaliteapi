@@ -1,0 +1,11 @@
+{
+  "page": "test",
+  "title": "Here's how many kilograms of waste (municipal solid waste) a person produces every day, by country.",
+  "sections": [
+  	{ "annotation": "In <b>small island developing nations</b>, waste management is a big issue. <b>Illegal dumping</b> and landfilling prevail in most small island developing states."},
+  	{ "annotation": "<b>OECD countries</b> — here highlighted — have the <b>biggest waste per capita</b>."},
+  	{ "annotation": ""},
+  	{ "annotation": ""},
+  	{ "annotation": ""}
+  ]
+}

@@ -1,0 +1,39 @@
+.scrolly__graphic {
+  position: sticky;
+  position: -webkit-sticky;
+  top:0;
+  overflow:hidden;
+
+}
+
+.scrolly__graphic-container {
+  height:80vh;
+  min-height:400px;
+  position: sticky;
+}
+
+.scrolly {
+  max-width:1200px;
+  margin:0 auto;
+  position:relative;
+}
+
+.scrolly__section {
+  height:100vh;
+  min-height:400px;
+}
+
+.scrolly__sections-container {
+  z-index:1000;
+  position:relative;
+  pointer-events:none;
+}
+
+.scrolly__annotation {
+  font-size:1.2rem;
+  background-color:rgba(255,255,255,.7);
+  box-shadow:1px 1px 7px rgba(0,0,0,.15);
+  padding-top:1rem;
+  padding-bottom:1rem;
+
+}

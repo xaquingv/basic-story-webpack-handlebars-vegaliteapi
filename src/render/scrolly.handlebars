@@ -1,0 +1,13 @@
+<div class="scrolly__graphic">
+  <h1 class="scrolly__header">{{title}}</h1>
+  <div class="scrolly__graphic-container js-{{scrolly}}"></div>
+</div>
+<div class="scrolly__sections-container">
+{{#each sections}}
+  <div class="scrolly__section">
+    <p class="scrolly__annotation"><span>{{{annotation}}}</span></p>
+  </div>
+{{/each}}
+</div>
+<figcaption class="notes"><p>{{source}}</p></figcaption>
+
